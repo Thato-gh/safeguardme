@@ -61,7 +61,7 @@ All sensitive screens support future enhancements like biometric authentication.
 | UI Framework        | Jetpack Compose                                                       |
 | Architecture        | MVVM + Repository Pattern + DI (Hilt)                                 |
 | Backend             | Firebase (Firestore, Auth, Storage)                                   |
-| Realtime Features   | ML Kit (Voice Trigger), Firebase Sync                                |
+| Realtime Features   | ML Kit (Voice Trigger), Firebase Sync                                 |
 | Navigation          | Jetpack Navigation (Compose)                                          |
 | Storage             | Jetpack DataStore for settings                                        |
 | Testing             | JUnit, MockK, Espresso (Planned)                                      |
@@ -108,3 +108,5 @@ Pull requests are welcome! Please follow our architecture, write clear commit me
 
 🛡️ License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
